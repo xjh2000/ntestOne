@@ -1,0 +1,14 @@
+{
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "cmake build active file", // 任务名称
+            "command": "cmake --build ${workspaceFolder}/build", // cmake指令
+            "args": [], // 指令参数
+            "options": {
+                "cwd": "/usr/bin"
+            }
+        }
+    ],
+    "version": "2.0.0"
+}
