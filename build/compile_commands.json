@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/haoge/Cxx/study/ntestOne/build",
+  "command": "/bin/g++-9   -I/home/haoge/Cxx/study/ntestOne/build -I/home/haoge/Cxx/study/ntestOne/Lib/test/Include -I/home/haoge/Cxx/study/ntestOne/Core/Include  -g   -o CMakeFiles/ntestOne.dir/Core/Src/main.cpp.o -c /home/haoge/Cxx/study/ntestOne/Core/Src/main.cpp",
+  "file": "/home/haoge/Cxx/study/ntestOne/Core/Src/main.cpp"
+},
+{
+  "directory": "/home/haoge/Cxx/study/ntestOne/build/Lib/test/Src",
+  "command": "/bin/g++-9  -Dtest_EXPORTS -I/home/haoge/Cxx/study/ntestOne/Lib/test/Include  -g -fPIC   -o CMakeFiles/test.dir/test.cpp.o -c /home/haoge/Cxx/study/ntestOne/Lib/test/Src/test.cpp",
+  "file": "/home/haoge/Cxx/study/ntestOne/Lib/test/Src/test.cpp"
+}
+]
