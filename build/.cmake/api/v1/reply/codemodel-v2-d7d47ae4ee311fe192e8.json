@@ -58,14 +58,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ntestOne::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ntestOne-Debug-f891a04d40d40133778e.json",
+					"jsonFile" : "target-ntestOne-Debug-5ea5a630aed78165587f.json",
 					"name" : "ntestOne",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "test::@00d29a1eee15a6f6ab99",
-					"jsonFile" : "target-test-Debug-c06cf971e1ce7a64b660.json",
+					"jsonFile" : "target-test-Debug-be809486e6edb55e9d9f.json",
 					"name" : "test",
 					"projectIndex" : 0
 				}
@@ -75,8 +75,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/haoge/Cxx/study/ntestOne/build",
-		"source" : "/home/haoge/Cxx/study/ntestOne"
+		"build" : "/home/haoge/Cxx/study/first/build",
+		"source" : "/home/haoge/Cxx/study/first"
 	},
 	"version" : 
 	{

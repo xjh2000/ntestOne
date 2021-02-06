@@ -56,15 +56,15 @@
 			[
 				{
 					"backtrace" : 3,
-					"path" : "/home/haoge/Cxx/study/ntestOne/build"
+					"path" : "/home/haoge/Cxx/study/first/build"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "/home/haoge/Cxx/study/ntestOne/Lib/test/Include"
+					"path" : "/home/haoge/Cxx/study/first/Lib/test/Include"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "/home/haoge/Cxx/study/ntestOne/Core/Include"
+					"path" : "/home/haoge/Cxx/study/first/Core/Include"
 				}
 			],
 			"language" : "CXX",
@@ -95,7 +95,7 @@
 				"role" : "flags"
 			},
 			{
-				"fragment" : "-Wl,-rpath,/home/haoge/Cxx/study/ntestOne/build/Lib/test/Src",
+				"fragment" : "-Wl,-rpath,/home/haoge/Cxx/study/first/build/Lib/test/Src",
 				"role" : "libraries"
 			},
 			{

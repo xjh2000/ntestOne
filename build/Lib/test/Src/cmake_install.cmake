@@ -1,4 +1,4 @@
-# Install script for directory: /home/haoge/Cxx/study/ntestOne/Lib/test/Src
+# Install script for directory: /home/haoge/Cxx/study/first/Lib/test/Src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

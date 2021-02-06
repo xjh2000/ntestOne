@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/haoge/Cxx/study/ntestOne/build"
+			"value" : "/home/haoge/Cxx/study/first/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -159,7 +159,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/bin/g++-9"
+			"value" : "/bin/arm-linux-gnueabi-g++-9"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_AR",
@@ -287,7 +287,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/bin/gcc-9"
+			"value" : "/bin/arm-linux-gnueabi-gcc-9"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_AR",
@@ -595,7 +595,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/haoge/Cxx/study/ntestOne"
+			"value" : "/home/haoge/Cxx/study/first"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1191,7 +1191,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/haoge/Cxx/study/ntestOne/build"
+			"value" : "/home/haoge/Cxx/study/first/build"
 		},
 		{
 			"name" : "ntestOne_SOURCE_DIR",
@@ -1203,7 +1203,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/haoge/Cxx/study/ntestOne"
+			"value" : "/home/haoge/Cxx/study/first"
 		}
 	],
 	"kind" : "cache",
