@@ -3,4 +3,4 @@ include_directories(
 )
 
 aux_source_directory(. LIB_SRCS)
-add_library (test SHARED ${LIB_SRCS})
+add_library (first SHARED ${LIB_SRCS})

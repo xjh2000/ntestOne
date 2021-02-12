@@ -5,13 +5,12 @@
             "includePath": [
                 "${workspaceFolder}/Lib/test/Include",
                 "${workspaceFolder}/Core/Include"
-
             ],
-            "defines": [],
+            "compilerPath": "D:\\mingw64\\bin\\g++.exe",
             "cStandard": "gnu17",
-            "cppStandard": "c++17",
-            "intelliSenseMode": "linux-gcc-x64",
-            "compilerPath": "/usr/bin/g++"
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json"
         }
     ],
     "version": 4

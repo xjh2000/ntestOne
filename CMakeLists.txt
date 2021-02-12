@@ -12,7 +12,7 @@ add_subdirectory(Lib/test/Src)
 # 生成目标
 add_executable(ntestOne ${DIR_TOOT_SRCS})
 # 链接库
-target_link_libraries(ntestOne test)
+target_link_libraries(ntestOne first)
 # 添加编译所需头文件路径
 target_include_directories(ntestOne PUBLIC
                           "${PROJECT_BINARY_DIR}"

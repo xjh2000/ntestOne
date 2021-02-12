@@ -5,24 +5,42 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "(gdb) 启动",
+            // "name": "(gdb) 启动",
+            // "type": "cppdbg",
+            // "request": "launch",
+            // "program": "${workspaceFolder}/build/ntestOne.exe",
+            // "args": [],
+            // "stopAtEntry": false,
+            // "cwd": "${workspaceFolder}",
+            // "environment": [],
+            // // "console": "externalTerminal",
+            // "MIMode": "gdb",
+            // "setupCommands": [
+            //     {
+            //         "description": "为 gdb 启用整齐打印",
+            //         "text": "-enable-pretty-printing",
+            //         "ignoreFailures": true
+            //     }
+            // ],
+            "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/build/ntestOne",
+            "program": "${workspaceFolder}/build/ntestOne.exe", //按照个人工作区名字配置
             "args": [],
-            "stopAtEntry": false,
+            // "stopAtEntry": true,
             "cwd": "${workspaceFolder}",
             "environment": [],
-            // "console": "externalTerminal",
+            "externalConsole": false,
             "MIMode": "gdb",
+            "miDebuggerPath": "D:\\mingw64\\bin\\gdb.exe", //按照个人路径配置
             "setupCommands": [
                 {
-                    "description": "为 gdb 启用整齐打印",
+                    "description": "Enable pretty-printing for gdb",
                     "text": "-enable-pretty-printing",
                     "ignoreFailures": true
                 }
             ],
-            "preLaunchTask": "cmake build active file"
+            "preLaunchTask": "debug"
         }
     ]
 }

@@ -1,0 +1,6 @@
+C:/Users/93462/Desktop/workspace/C++/ntestOne/build/CMakeFiles/ntestOne.dir
+C:/Users/93462/Desktop/workspace/C++/ntestOne/build/CMakeFiles/edit_cache.dir
+C:/Users/93462/Desktop/workspace/C++/ntestOne/build/CMakeFiles/rebuild_cache.dir
+C:/Users/93462/Desktop/workspace/C++/ntestOne/build/Lib/test/Src/CMakeFiles/first.dir
+C:/Users/93462/Desktop/workspace/C++/ntestOne/build/Lib/test/Src/CMakeFiles/edit_cache.dir
+C:/Users/93462/Desktop/workspace/C++/ntestOne/build/Lib/test/Src/CMakeFiles/rebuild_cache.dir

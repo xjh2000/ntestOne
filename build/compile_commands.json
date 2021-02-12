@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/93462/Desktop/workspace/C++/ntestOne/build",
+  "command": "D:\\mingw64\\bin\\g++.exe    @CMakeFiles/ntestOne.dir/includes_CXX.rsp -g   -o CMakeFiles\\ntestOne.dir\\Core\\Src\\main.cpp.obj -c C:\\Users\\93462\\Desktop\\workspace\\C++\\ntestOne\\Core\\Src\\main.cpp",
+  "file": "C:/Users/93462/Desktop/workspace/C++/ntestOne/Core/Src/main.cpp"
+},
+{
+  "directory": "C:/Users/93462/Desktop/workspace/C++/ntestOne/build/Lib/test/Src",
+  "command": "D:\\mingw64\\bin\\g++.exe   -Dfirst_EXPORTS @CMakeFiles/first.dir/includes_CXX.rsp -g   -o CMakeFiles\\first.dir\\test.cpp.obj -c C:\\Users\\93462\\Desktop\\workspace\\C++\\ntestOne\\Lib\\test\\Src\\test.cpp",
+  "file": "C:/Users/93462/Desktop/workspace/C++/ntestOne/Lib/test/Src/test.cpp"
+}
+]

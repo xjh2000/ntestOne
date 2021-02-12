@@ -5,9 +5,13 @@
             "label": "cmake build active file", // 任务名称
             "command": "cmake --build ${workspaceFolder}/build", // cmake指令
             "args": [], // 指令参数
-            "options": {
-                "cwd": "/usr/bin"
-            }
+            "options": {}
+        },
+        {
+            "type": "shell",
+            "label": "debug",
+            "command":"cp ${workspaceFolder}/build/Lib/test/Src/libfirst.dll ${workspaceFolder}/build",
+            "dependsOn" : ["cmake build active file"]
         }
     ],
     "version": "2.0.0"
